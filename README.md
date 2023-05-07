@@ -1,3 +1,2 @@
-# FlashGame
-BHstudioTraining
-Lazaridi George (Yuriy)
+# BHstudioTraining
+#Lazaridi George (Yuriy)
