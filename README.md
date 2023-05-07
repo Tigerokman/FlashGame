@@ -1,2 +1,1 @@
-# BHstudioTraining
-#Lazaridi George (Yuriy)
+# Lazaridi George (Yuriy)
